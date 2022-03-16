@@ -1,0 +1,13 @@
+.bg-image {
+    background-image: url("/images/techbg.jpg");
+    background-repeat: no-repeat;
+}
+
+.hello_header {
+    text-shadow: 2px 2px;
+}
+
+.title_text {
+    color: gray;
+    font-size: 2rem;
+}
