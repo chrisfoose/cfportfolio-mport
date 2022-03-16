@@ -24,3 +24,7 @@
 .round {
     border-radius: 50%
 }
+
+.con_pad {
+    padding: 25px;
+}
