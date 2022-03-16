@@ -1,6 +1,7 @@
 .bg-image {
-    background-image: url("images/techbg.jpg");
+    background-image: url("/images/techbg.jpg");
     background-repeat: no-repeat;
+    width: 100%;
 }
 
 .hello_header {
