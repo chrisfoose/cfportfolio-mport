@@ -20,3 +20,7 @@
         min-height: 50px;
     
 }
+
+.round {
+    border-radius: 50%
+}
